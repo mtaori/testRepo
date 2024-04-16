@@ -1,0 +1,3 @@
+This is the test file for git clone command.
+line 2.
+
